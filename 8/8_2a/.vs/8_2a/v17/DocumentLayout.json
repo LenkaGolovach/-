@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Practice\\8\\8_2a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7254574-0F34-421A-842F-CC4C29F12CE5}|8_2a.vcxproj|D:\\Programming\\Practice\\8\\8_2a\\8_2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7254574-0F34-421A-842F-CC4C29F12CE5}|8_2a.vcxproj|solutionrelative:8_2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8_2a.cpp",
+              "DocumentMoniker": "D:\\Programming\\Practice\\8\\8_2a\\8_2a.cpp",
+              "RelativeDocumentMoniker": "8_2a.cpp",
+              "ToolTip": "D:\\Programming\\Practice\\8\\8_2a\\8_2a.cpp*",
+              "RelativeToolTip": "8_2a.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T04:41:16.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
